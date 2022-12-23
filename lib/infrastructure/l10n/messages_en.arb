@@ -1,0 +1,355 @@
+{
+  "getStarted": "Get started",
+  "@getStarted": {
+    "type": "text"
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text"
+  },
+  "signUp": "Sign-up",
+  "@signUp": {
+    "type": "text"
+  },
+  "signUpAuth": "Sign up",
+  "@signUpAuth": {
+    "type": "text"
+  },
+  "emailAddress": "Email address",
+  "@emailAddress": {
+    "type": "text"
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text"
+  },
+  "forgotPassword": "Forgot password?",
+  "@forgotPassword": {
+    "type": "text"
+  },
+  "repeatPassword": "Repeat password",
+  "@repeatPassword": {
+    "type": "text"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "type": "text"
+  },
+  "orders": "orders",
+  "@orders": {
+    "type": "text"
+  },
+  "offerAndPromo": "offer and promo",
+  "@offerAndPromo": {
+    "type": "text"
+  },
+  "privacyPolicy": "Privacy policy",
+  "@privacyPolicy": {
+    "type": "text"
+  },
+  "security": "Security",
+  "@security": {
+    "type": "text"
+  },
+  "signOut": "Sign-out",
+  "@signOut": {
+    "type": "text"
+    },
+    "delicious": "Delicious \nfood for you", 
+  "@delicious": {
+    "type": "text"
+    },
+    "deliciousSmall": "Delicious food for you", 
+  "@deliciousSmall": {
+    "type": "text"
+  },
+  "search": "Search",
+  "@search": {
+    "type": "text"
+  },
+  "foods": "Foods",
+  "@foods": {
+    "type": "text"
+  },
+  "drinks": "Drinks",
+  "@drinks": {
+    "type": "text"
+  },
+  "sauce": "Sauces",
+  "@sauce": {
+    "type": "text"
+  },
+  "soupAndAvebe": "Soup and avebe",
+  "@soupAndAvebe": {
+    "type": "text"
+  },
+  "meatAndFish": "Meat and fish",
+  "@meatAndFish": {
+    "type": "text"
+  },
+  "pizza": "Pizza",
+  "@pizza": {
+    "type": "text"
+  },
+  "avebe": "Avebe",
+  "@avebe": {
+    "type": "text"
+  },
+  "snacks": "Snacks",
+  "@snacks": {
+    "type": "text"
+  },
+  "greekChicken": "Greek chicken",
+  "@greekChicken": {
+    "type": "text"
+  },
+  "salads": "Salads",
+  "@salads": {
+    "type": "text"
+  },
+  "choppedFastCheap": "Chopped fast & cheap",
+  "@choppedFastCheap": {
+    "type": "text"
+  },
+  "simpleGreek": "Simple greek",
+  "@simpleGreek": {
+    "type": "text"
+    },
+    "veggieTomatoMix": "Veggie\ntomato mix", 
+  "@veggieTomatoMix": {
+    "type": "text"
+  },
+  "doorDelivery": "Door delivery",
+  "@doorDelivery": {
+    "type": "text"
+  },
+  "itemNotFound": "Item not found",
+  "@itemNotFound": {
+    "type": "text"
+  },
+  "trySearchingTheItemWith": "Try searching the item with\na different keyword.",
+  "@trySearchingTheItemWith": {
+    "type": "text"
+  },
+  "deliveryInfo": "Delivery info",
+  "@deliveryInfo": {
+    "type": "text"
+  },
+  "addToCart": "Add to cart",
+  "@addToCart": {
+    "type": "text"
+  },
+  "returnPolicy": "Return policy",
+  "@returnPolicy": {
+    "type": "text"
+  },
+  "allOurFoodsAreDoubleChecked": "All our foods are double checked before leaving our stores so by any case you found a broken food please contact our hotline immediately.",
+  "@allOurFoodsAreDoubleChecked": {
+    "type": "text"
+  },
+  "deliveredBetweenMonday": "Delivered between monday aug and thursday 20 from 8pm to 91:32 pm",
+  "@deliveredBetweenMonday": {
+    "type": "text"
+  },
+  "cart": "Cart",
+  "@cart": {
+    "type": "text"
+  },
+  "cartIsEmpty": "Cart is empty",
+  "@cartIsEmpty": {
+    "type": "text"
+  },
+  "addNewItemsToCart": "Add new items to cart",
+  "@addNewItemsToCart": {
+    "type": "text"
+  },
+  "checkout": "Checkout",
+  "@checkout": {
+    "type": "text"
+  },
+  "swipeOnAnItemToDelete": "swipe on an item to delete",
+  "@swipeOnAnItemToDelete": {
+    "type": "text"
+  },
+  "delivery": "Delivery",
+  "@delivery": {
+    "type": "text"
+  },
+  "addressDetails": "Address details",
+  "@addressDetails": {
+    "type": "text"
+  },
+  "change": "change",
+  "@change": {
+    "type": "text"
+  },
+  "deliveryMethod": "Delivery method.",
+  "@deliveryMethod": {
+    "type": "text"
+  },
+  "pickUp": "Pick up",
+  "@pickUp": {
+    "type": "text"
+  },
+  "total": "Total",
+  "@total": {
+    "type": "text"
+  },
+  "proceedToPayment": "Proceed to payment",
+  "@proceedToPayment": {
+    "type": "text"
+  },
+  "payment": "Payment",
+  "@payment": {
+    "type": "text"
+  },
+  "paymentMethod": "Payment method",
+  "@paymentMethod": {
+    "type": "text"
+  },
+  "card": "Card",
+  "@card": {
+    "type": "text"
+  },
+  "pleaseNote": "Please note",
+  "@pleaseNote": {
+    "type": "text"
+  },
+  "deliveryToMainland": "Delivery to Mainland",
+  "@deliveryToMainland": {
+    "type": "text"
+  },
+  "deliveryToIsland": "Delivery to island",
+  "@deliveryToIsland": {
+    "type": "text"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text"
+  },
+  "proceed": "Proceed",
+  "@proceed": {
+    "type": "text"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "type": "text"
+  },
+  "information": "Information",
+  "@information": {
+    "type": "text"
+  },
+  "paypal": "Paypal",
+  "@paypal": {
+    "type": "text"
+  },
+  "bankAccount": "Bank account",
+  "@bankAccount": {
+    "type": "text"
+  },
+  "history": "History",
+  "@history": {
+    "type": "text"
+  },
+  "noHistoryYet": "No history yet",
+  "@noHistoryYet": {
+    "type": "text"
+  },
+  "hitTheOrangeButtonDown": "Hit the orange button down below to Create an order",
+  "@hitTheOrangeButtonDown": {
+    "type": "text"
+  },
+  "orderDetails": "Order Details",
+  "@orderDetails": {
+    "type": "text"
+  },
+  "reorder": "Reorder",
+  "@reorder": {
+    "type": "text"
+  },
+  "noInternetConnection": "No internet Connection",
+  "@noInternetConnection": {
+    "type": "text"
+  },
+  "yourInternetConnection": "Your internet connection is currently not available please check or try again.",
+  "@yourInternetConnection": {
+    "type": "text"
+  },
+  "tryAgain": "Try again",
+  "@tryAgain": {
+    "type": "text"
+  },
+  "order": "Order",
+  "@order": {
+    "type": "text"
+  },
+  "foodForEveryone": "Food for\nEveryone",
+  "@foodForEveryone": {
+    "type": "text"
+  },
+  "uiScreen": "UI Screen",
+  "@uiScreen": {
+    "type": "text"
+  },
+  "clickMe": "Click me",
+  "@clickMe": {
+    "type": "text"
+  },
+  "username": "Username",
+  "@username": {
+    "type": "text"
+  },
+  "enterTheName": "Enter the name",
+  "@enterTheName": {
+    "type": "text"
+  },
+  "errorRegistration": "The user is already registered",
+  "@errorRegistration": {
+    "type": "text"
+    },
+    "usernameIsNotWritten": "Username is not written",
+  "@usernameIsNotWritten": {
+    "type": "text"
+    },
+    "passwordIsNotWritten": "Password is not written",
+  "@passwordIsNotWritten": {
+    "type": "text"
+    },
+    "enterTheName": "Enter the username",
+  "@enterTheName": {
+    "type": "text"
+    },
+    "enterAValidEmail": "Enter a valid email address",
+  "@enterAValidEmail": {
+    "type": "text"
+    },
+    "enterAValidPassword": "Enter a valid password",
+  "@enterAValidPassword": {
+    "type": "text"
+    },
+    "home": "Home",
+  "@home": {
+    "type": "text"
+    },
+    "favorite": "Favorite",
+  "@favorite": {
+    "type": "text"
+    },
+    "person": "Person",
+  "@person": {
+    "type": "text"
+    },
+    "history": "History",
+  "@history": {
+    "type": "text"
+    },
+    "writeTheNameOf": "write the name of the dish",
+  "@writeTheNameOf": {
+    "type": "text"
+    },
+    "addedToBasket": "Added to basket",
+  "@addedToBasket": {
+    "type": "text"
+    }
+}
+
